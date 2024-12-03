@@ -1,0 +1,15 @@
+it\nsa\common\dto\OperationOutcomeTypeDto.class
+it\nsa\common\util\StatoEnum.class
+it\nsa\common\exception\UserNotFoundException.class
+it\nsa\common\response\GenericResponse.class
+it\nsa\common\dto\UtenteDTO.class
+it\nsa\common\exception\ForbiddenException.class
+it\nsa\common\exception\ExceptionEnum.class
+it\nsa\common\exception\UnauthorizedInvalidTokenException.class
+it\nsa\common\exception\GlobalExceptionHandler.class
+it\nsa\common\exception\ExceptionHandler.class
+it\nsa\common\exception\BadRequestException.class
+it\nsa\common\exception\ExternalCallException.class
+it\nsa\common\feign\AuditFeignController.class
+it\nsa\common\exception\EventException.class
+it\nsa\common\dto\SaveAuditDto.class

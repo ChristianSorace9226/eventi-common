@@ -1,0 +1,15 @@
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\exception\GlobalExceptionHandler.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\exception\UserNotFoundException.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\dto\SaveAuditDto.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\exception\BadRequestException.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\response\GenericResponse.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\dto\OperationOutcomeTypeDto.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\exception\EventException.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\util\StatoEnum.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\exception\UnauthorizedInvalidTokenException.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\dto\UtenteDTO.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\exception\ForbiddenException.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\exception\ExceptionEnum.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\exception\ExternalCallException.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\exception\ExceptionHandler.java
+C:\Users\ChristianSORACE\IdeaProjects\eventi-common\src\main\java\it\nsa\common\feign\AuditFeignController.java
